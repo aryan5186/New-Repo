@@ -57,3 +57,5 @@ Method-2:
 
 git pull main -> it is used to fetch or download the changes of remote into the local machine.
 
+git merging conflicts is occuring when git is unable to automatically resolving the difference in codes and between two commits.
+
