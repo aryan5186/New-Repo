@@ -48,4 +48,12 @@ git branch -d <branch_name> -> this command is used for deleting the branch
 
 git diff <branch_name> -> it used to check the differences
 
-git merge <branch_name> -> it is used to merge the branch 
+for merging the branches
+Method-1:
+  git merge <branch_name> -> it is used to merge the branch 
+
+Method-2:
+  by generating the pull request
+
+git pull main -> it is used to fetch or download the changes of remote into the local machine.
+
